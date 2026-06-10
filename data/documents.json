@@ -1,0 +1,53 @@
+[
+  {
+    "id": "doc_01",
+    "title": "Embedding trong NLP",
+    "text": "Embedding biến từ, câu hoặc đoạn văn thành vector số để máy tính có thể so sánh ý nghĩa."
+  },
+  {
+    "id": "doc_02",
+    "title": "Tìm kiếm bằng từ khóa",
+    "text": "Keyword search tìm tài liệu bằng cách đếm từ trùng khớp giữa câu hỏi và nội dung."
+  },
+  {
+    "id": "doc_03",
+    "title": "Semantic Search",
+    "text": "Semantic search tìm theo ý nghĩa, nên câu hỏi xe hơi có thể tìm được tài liệu nói về ô tô."
+  },
+  {
+    "id": "doc_04",
+    "title": "Cosine Similarity",
+    "text": "Cosine similarity đo độ giống nhau về hướng giữa hai vector, thường dùng để so sánh embedding."
+  },
+  {
+    "id": "doc_05",
+    "title": "RAG",
+    "text": "Retrieval Augmented Generation dùng embedding để tìm tài liệu liên quan trước khi mô hình ngôn ngữ tạo câu trả lời."
+  },
+  {
+    "id": "doc_06",
+    "title": "Resume Matching",
+    "text": "Hệ thống tuyển dụng có thể so sánh embedding của CV với mô tả công việc để tìm ứng viên phù hợp."
+  },
+  {
+    "id": "doc_07",
+    "title": "Search Engine hiện đại",
+    "text": "Search engine hiện đại kết hợp keyword search, semantic search, ranking và phản hồi người dùng."
+  },
+  {
+    "id": "doc_08",
+    "title": "ChatGPT và ngữ cảnh",
+    "text": "ChatGPT có thể dùng embedding trong hệ thống bên ngoài để truy xuất tri thức liên quan từ kho dữ liệu riêng."
+  },
+  {
+    "id": "doc_09",
+    "title": "Vector Database",
+    "text": "Vector database lưu embedding và hỗ trợ tìm kiếm nearest neighbors rất nhanh trên tập dữ liệu lớn."
+  },
+  {
+    "id": "doc_10",
+    "title": "Độ đo khoảng cách",
+    "text": "Euclidean distance, dot product và cosine similarity là các cách phổ biến để so sánh vector."
+  }
+]
+
