@@ -1,10 +1,13 @@
 # Notebooks
 
-Thư mục này để bạn tự thêm notebook khi muốn thử nghiệm thêm.
+Optional notebooks for experimenting with vector and search concepts.
 
-Gợi ý notebook:
+## Suggested notebooks
 
-1. `01_bow_vector.ipynb`: tự tạo vector bag-of-words.
-2. `02_cosine_similarity.ipynb`: vẽ góc giữa hai vector.
-3. `03_sentence_transformers.ipynb`: thử model Sentence-BERT nếu máy có GPU hoặc internet.
+- `01_bow_vector.ipynb`: build a simple bag-of-words vector.
+- `02_cosine_similarity.ipynb`: visualize similarity between vectors.
+- `03_semantic_search.ipynb`: compare keyword matching with embedding search.
 
+## Notes
+
+Notebooks are exploratory. Stable reusable logic should live in `src/`.
